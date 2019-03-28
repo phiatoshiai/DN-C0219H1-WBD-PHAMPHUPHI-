@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-public class BT_SumOfSpecialColumn {
+public class BT_SumOfMainDiagonalArray {
     public static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
         float[][] array = null;
         array = input(array);
         show(array);
-        sum(array);
+        sumDiagonal(array);
     }
 
     public static float[][] input(float[][] array) {
@@ -39,17 +39,20 @@ public class BT_SumOfSpecialColumn {
         }
     }
 
-    public static void sum(float[][] array) {
-        float sum = 0;
-        System.out.println("Array has columns: " + array.length);
-        System.out.print("Chose the column to total: ");
-        int s = sc.nextInt();
-        System.out.println();
-        for (int i = 0; i < s; i++) {
-            sum += array[i][s - 1];
+    public static void sumDiagonal(float[][] array) {
+        float sum1 = 0;
+        float sum2 = 0;
+        int t = array.length;
+        System.out.println("--- SUM OF MAIN DIAGONAL ARRAY ---");
+        for (int i = 0; i < array.length; i++) {
+            sum1 += array[i][i];
         }
-        System.out.print("Sum of the column is: " + sum);
+        System.out.print("Sum of the first main diagonal array " + sum1 + "\n");
+
+        for (int i = 0; i < array.length; i++) {
+                sum2 += array[i][t-1];
+                t--;
+        }
+        System.out.print("Sum of the second main diagonal array " + sum2);
     }
-
-
 }
