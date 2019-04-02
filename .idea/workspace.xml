@@ -1,88 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da2cd0e5-4b7b-4f34-b763-7a6cdfb1d682" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/out/production/Code/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/out/production/Code/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/BT_FindCharAtAndCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/BT_FindMaxOf2Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/out/production/Code/OOP/FAN/Fan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/out/production/Code/OOP/QuadraticEquation/PTB2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/out/production/Code/OOP/QuadraticEquation/TestPTB2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/out/production/Code/OOP/Rectangle/HCN.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/out/production/Code/OOP/Rectangle/TestHCN.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/out/production/Code/OOP/StopWatch/StopWatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/src/Array/BT_SumOfMainDiagonalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/src/Array/BT_SumOfSpecialColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/src/OOP/FAN/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/src/OOP/QuadraticEquation/PTB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/src/OOP/QuadraticEquation/TestPTB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/src/OOP/Rectangle/HCN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/src/OOP/Rectangle/TestHCN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code/src/OOP/StopWatch/StopWatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="da2cd0e5-4b7b-4f34-b763-7a6cdfb1d682" name="Default Changelist" comment="Update OOP">
+      <change afterPath="$PROJECT_DIR$/Code/src/OOP/Point/MoveablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/src/OOP/Point/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/src/OOP/Point/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/src/OOP/Shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/src/OOP/Shape/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/src/OOP/Shape/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/BT_AddArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/BT_AddArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/BT_AddElementPositionX.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/BT_AddElementPositionX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/BT_DeleteElementsOfArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/BT_DeleteElementsOfArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/BT_FindCharAtAndCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/BT_FindMaxOf2Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/BT_FindMinOfArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/BT_FindMinOfArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/BT_SumOfSpecialColumn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/META-INF/Array.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/TH_ChuyenDoiNhietDo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/TH_CountTheStudentPassTheExam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/TH_DuyetMangTimViTriSinhVien.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/TH_FindMaxOfArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/TH_FindMaxOfArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/TH_FindMinOfArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/TH_FindMinOfArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/out/production/Array/TH_ReverseElementOfArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/BT_AddArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/BT_AddArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/BT_AddElementPositionX.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/BT_AddElementPositionX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/BT_DeleteElementsOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/BT_DeleteElementsOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/BT_FindCharAtAndCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/BT_FindCharAtAndCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/BT_FindMaxOf2Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/BT_FindMaxOf2Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/BT_FindMinOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/BT_FindMinOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/BT_SumOfMainDiagonalArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/BT_SumOfSpecialColumn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/TH_ChuyenDoiNhietDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/TH_ChuyenDoiNhietDo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/TH_CountTheStudentPassTheExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/TH_CountTheStudentPassTheExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/TH_CreateMapsOfMineSweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/TH_CreateMapsOfMineSweeper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/TH_DuyetMangTimViTriSinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/TH_DuyetMangTimViTriSinhVien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/TH_FindMaxOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/TH_FindMaxOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/TH_FindMinOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/TH_FindMinOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/TH_ReverseElementOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/TH_ReverseElementOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/BT_AddArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/BT_AddElementPositionX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/BT_DeleteElementsOfArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/BT_FindCharAtAndCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/BT_FindMaxOf2Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/BT_FindMinOfArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/BT_SumOfMainDiagonalArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/BT_SumOfMainDiagonalArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/BT_SumOfSpecialColumn.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/BT_SumOfSpecialColumn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/TH_ChuyenDoiNhietDo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/TH_ChuyenDoiNhietDo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/TH_CountTheStudentPassTheExam.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/TH_CountTheStudentPassTheExam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/TH_DuyetMangTimViTriSinhVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/TH_DuyetMangTimViTriSinhVien.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/TH_FindMaxOfArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/TH_FindMinOfArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/TH_ReverseElementOfArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Array/TH_ReverseElementOfArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/test/HelloWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HelloWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/out/production/Code/Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/Code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/out/production/Code/OOP/StopWatch/StopWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/Code/out/production/Code/OOP/StopWatch/StopWatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/Array/BT_FindMinOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Array/BT_FindMinOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/OOP/StopWatch/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/OOP/StopWatch/StopWatch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,18 +24,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Code/src/OOP/QuadraticEquation/PTB2.java">
+        <entry file="file://$PROJECT_DIR$/Code/src/OOP/Shape/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="-54">
+              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#1012#1013#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Code/src/OOP/StopWatch/StopWatch.java" />
+        <option value="$PROJECT_DIR$/Code/src/OOP/Shape/Shape.java" />
+        <option value="$PROJECT_DIR$/Code/src/OOP/Shape/Circle.java" />
+        <option value="$PROJECT_DIR$/Code/src/OOP/Shape/Cylinder.java" />
+        <option value="$PROJECT_DIR$/Code/src/OOP/Point/Point2D.java" />
+        <option value="$PROJECT_DIR$/Code/src/OOP/Point/Point3D.java" />
+        <option value="$PROJECT_DIR$/Code/src/OOP/Point/MoveablePoint.java" />
+        <option value="$PROJECT_DIR$/Code/src/OOP/Shape/Triangle.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -119,7 +85,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,24 +101,38 @@
               <item name="JavaBootCampWBD" type="b2602c69:ProjectViewProjectNode" />
               <item name="Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBootCampWBD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="Shape" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554099717617" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554183998652" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="OOP.Shape" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,13 +146,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.StopWatch.StopWatch" />
+  <component name="RunManager" selected="Application.Triangle">
+    <configuration name="Cylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Shape.Cylinder" />
       <module name="Code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.StopWatch.*" />
+          <option name="PATTERN" value="OOP.Shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveablePoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Point.MoveablePoint" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Point.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Point.Point2D" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Point.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point3D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Point.Point3D" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Point.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Shape.Triangle" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,7 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StopWatch" />
+        <item itemvalue="Application.Triangle" />
+        <item itemvalue="Application.MoveablePoint" />
+        <item itemvalue="Application.Point3D" />
+        <item itemvalue="Application.Point2D" />
+        <item itemvalue="Application.Cylinder" />
       </list>
     </recent_temporary>
   </component>
@@ -198,36 +233,39 @@
       <option name="presentableId" value="Default" />
       <updated>1554098946074</updated>
       <workItem from="1554098950781" duration="145000" />
-      <workItem from="1554099140762" duration="535000" />
+      <workItem from="1554099140762" duration="728000" />
+      <workItem from="1554160644728" duration="985000" />
+      <workItem from="1554170010897" duration="13484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="680000" />
+    <option name="totallyTimeSpent" value="15342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2431562" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32850242" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -242,14 +280,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update OOP" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Code/src/OOP/StopWatch/StopWatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Code/src/Array/TH_CreateMapsOfMineSweeper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -287,10 +322,197 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="875" column="60" selection-start-line="875" selection-start-column="60" selection-end-line="875" selection-end-column="60" />
+          <folding>
+            <element signature="e#37397#37398#0" expanded="true" />
+            <element signature="e#37433#37434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="1777" column="33" lean-forward="true" selection-start-line="1777" selection-start-column="33" selection-end-line="1777" selection-end-column="33" />
+          <folding>
+            <element signature="e#71982#71983#0" expanded="true" />
+            <element signature="e#72032#72033#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/text/Format.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="156" column="24" selection-start-line="156" selection-start-column="24" selection-end-line="156" selection-end-column="24" />
+          <folding>
+            <element signature="e#5554#5555#0" expanded="true" />
+            <element signature="e#5641#5642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="178" column="41" selection-start-line="178" selection-start-column="41" selection-end-line="178" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/OOP/StopWatch/StopWatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#976#977#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12/lib/src.zip!/java.base/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="439" column="44" lean-forward="true" selection-start-line="439" selection-start-column="44" selection-end-line="439" selection-end-column="44" />
+          <folding>
+            <element signature="e#23924#23925#0" expanded="true" />
+            <element signature="e#23996#23997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Code/src/OOP/QuadraticEquation/PTB2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="612">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/OOP/Shape/Cylinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/OOP/Shape/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="30" selection-end-column="83" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/OOP/Shape/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="38" column="70" selection-start-line="38" selection-end-line="39" />
+          <folding>
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/OOP/Point/Point2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="39" column="53" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="53" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/OOP/Point/Point3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/OOP/Point/MoveablePoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/src/OOP/Shape/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

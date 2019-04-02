@@ -6,7 +6,7 @@ public class BT_FindMinOfArray {
     public static Scanner scanner = new Scanner ( System.in );
 
     public static void main ( String[] args ) {
-        int array[] = null;
+        int[] array = null;
         System.out.println ( "---Enter Array---" );
         array = input ( array );
         findMin ( array );
