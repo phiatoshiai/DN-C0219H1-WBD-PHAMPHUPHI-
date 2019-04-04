@@ -1,6 +1,6 @@
 package OOP.Shape;
 
-public class Shape {
+abstract public class Shape {
     String color;
     boolean filled;
 
@@ -31,6 +31,8 @@ public class Shape {
     public void setFilled ( boolean filled ) {
         this.filled = filled;
     }
+
+    abstract public double getArea();
 
 
     @Override

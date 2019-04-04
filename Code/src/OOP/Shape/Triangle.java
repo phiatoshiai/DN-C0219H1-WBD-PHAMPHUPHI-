@@ -1,9 +1,10 @@
 package OOP.Shape;
 
-public class Triangle {
+public class Triangle extends Shape implements Resizeable{
     double side1 = 1.0;
     double side2 = 1.0;
     double side3 = 1.0;
+    double percent = 1;
 
     public Triangle () {
     }
@@ -12,6 +13,7 @@ public class Triangle {
         this.side1 = side1;
         this.side2 = side2;
         this.side3 = side3;
+
     }
 
     public double getSide1 () {
@@ -40,7 +42,7 @@ public class Triangle {
 
     public double getArea () {
         double p = (this.side1 + this.side2 + this.side3) / 2;
-        return Math.sqrt ( p * (p - this.side1) * (p - this.side2) * (p - this.side3) );
+        return (Math.sqrt ( p * (p - this.side1) * (p - this.side2) * (p - this.side3) ))*this.percent;
     }
 
     public double getPerimeter () {
@@ -56,5 +58,10 @@ public class Triangle {
     public static void main ( String[] args ) {
         Triangle triangle = new Triangle ( 3 , 4 , 5 );
         System.out.println ( triangle );
+    }
+
+    @Override
+    public void resize ( double percent ) {
+        this.percent = percent;
     }
 }
