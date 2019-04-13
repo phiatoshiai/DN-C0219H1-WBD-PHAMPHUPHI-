@@ -2,7 +2,7 @@ package JavaCollections.StudentManager;
 
 import java.util.Comparator;
 
-public class Student {
+public class Student{
     private int id;
     private String name;
     private String addr;
@@ -52,16 +52,5 @@ public class Student {
 
 }
 
-class SortbyGpa implements Comparator<Student> {
-    public int compare(Student a, Student b) {
-        return (int) (a.getGpa() - b.getGpa());
-    }
-}
-
-class SortbyName implements Comparator<Student> {
-    public int compare(Student s1, Student s2) {
-        return s1.getName().compareTo(s2.getName());
-    }
-}
 
 
